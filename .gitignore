@@ -392,3 +392,4 @@ cython_debug/
 
 #json
 server/knowledge_base_embeddings/all_knowledge_embeddings.jsonserver/knowledge_base_embeddings/
+server/knowledge_base_embeddings/all_knowledge_embeddings.json
