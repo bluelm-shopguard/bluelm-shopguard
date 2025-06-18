@@ -391,4 +391,4 @@ cython_debug/
 .cursorindexingignore
 
 #json
-server/knowledge_base_embeddings/all_knowledge_embeddings.json
+server/knowledge_base_embeddings/all_knowledge_embeddings.jsonserver/knowledge_base_embeddings/
